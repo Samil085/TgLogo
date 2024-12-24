@@ -4,7 +4,7 @@ const fs = require('fs');
 const path = require('path');
 
 // Bot tokeninizi buraya girin
-const bot = new Telegraf('5016208704:AAGo_ouiqmppOYDxpW9R8tM5on5-x156bPE');
+const bot = new Telegraf('5016208704:AAGo_-x156bPE');
 
 // Logo dosyasının yolu
 const logoPath = path.join(__dirname, 'logo.png');
